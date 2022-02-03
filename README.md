@@ -1,5 +1,5 @@
 # cse210-01
-My Repo
+
 
 def main():
     player = next_player("")
